@@ -194,6 +194,6 @@ flowchart LR
 
 Open to collaboration on agentic AI, applied ML and backend systems.
 
-<a href="https://linkedin.com/in/Rohith-Prasad-Vagu"><img src="https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk"></a>
+<a href="https://www.linkedin.com/in/rohith-prasad-vagu04/"><img src="https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk"></a>
 
 </div>
