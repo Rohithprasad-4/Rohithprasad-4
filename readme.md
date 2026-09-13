@@ -1,92 +1,125 @@
 <div align="center">
 
-# `ROHITH PRASAD VAGU`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rohith+Prasad+Vagu+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+Backend+Developer;I+build+systems%2C+not+just+models." alt="Typing SVG" />
 
-**I build systems for work that's currently done by hand.**
+<br>
 
-`Agentic AI` · `Applied ML` · `Backend Systems` · Hyderabad, India
+**B.Tech CSE @ GITAM · Hyderabad, India**
 
-<a href="https://linkedin.com/in/Rohith-Prasad-Vagu">
-<img src="https://img.shields.io/badge/LinkedIn-Rohith_Prasad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<img src="https://img.shields.io/badge/Focus-Agentic_Systems-58A6FF?style=flat-square" alt="Focus">
-<img src="https://img.shields.io/badge/Open_to-Collaboration-3FB950?style=flat-square" alt="Open to collaboration">
+I build software for work that's currently done by hand.
+
+<br>
+
+<a href="https://linkedin.com/in/Rohith-Prasad-Vagu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:⟨email⟩"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/Rohithprasad-4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=Rohithprasad-4&style=for-the-badge&color=58A6FF" alt="Profile views">
 
 </div>
 
----
-
-```
-┌──────────────────────────────────────────┐
-│  rohith@systems:~$ whoami                │
-├──────────────────────────────────────────┤
-│  B.Tech CSE · GITAM · Hyderabad          │
-│  AI/ML Engineer                          │
-│                                          │
-│  Building : agents, pipelines, backends  │
-│  Chasing  : reliability, not novelty     │
-└──────────────────────────────────────────┘
-```
-
-> [!NOTE]
-> I don't start from a model and look for a use. I start from a workflow where
-> someone makes repeated judgment calls under pressure — an underwriter pricing a
-> policy, a planner guessing next month's demand, an analyst reading the four
-> hundredth alert of the day — and ask whether a system can carry part of that
-> load reliably enough to be trusted.
+<br>
 
 ---
 
-## How I pick what to build
+## 🧠 &nbsp;About
+
+```yaml
+name:      Rohith Prasad Vagu
+role:      AI / ML Engineer
+focus:     agentic systems · applied ML · backend
+building:  multi-agent pipelines that ship reasoning, not just scores
+learning:  AI reliability, retrieval systems, production ML
+rule:      if a human can't check the output, it isn't ready
+```
+
+- 🤖 &nbsp;I work on **agentic AI** — multi-agent pipelines, decision automation, state-aware workflows
+- 🧪 &nbsp;Currently interning across **two AI/ML teams** (multimodal data, feature stores, MLflow)
+- 🎤 &nbsp;**Microsoft Learn Student Ambassador** — ran AI/ML workshops for 500+ students
+- 🌱 &nbsp;Contributing through **GirlScript Summer of Code 2026**, Open Source & Agents track
+- 💬 &nbsp;Ask me about multi-agent design, LLM grounding, or why models die in production
+
+<br>
+
+---
+
+## 🚀 &nbsp;Projects
+
+<div align="center">
+
+| Project | What it solves | Stack | Live | Code |
+|:---|:---|:---|:---:|:---:|
+| **📈 Sales Forecasting** | Retailers plan inventory on gut feel. Raw sales in → forecast out, no analyst needed. | `XGBoost` `pandas` `Streamlit` | [**▶ Demo**](⟨url⟩) | [Repo](https://github.com/Rohithprasad-4/sales-forecasting-ml) |
+| **🧩 InsureAI** | Underwriters juggle 4 judgments at once. A 4-agent pipeline that outputs the *reasoning chain*, not just a score. | `scikit-learn` `Multi-Agent` `Plotly` | [**▶ Demo**](⟨url⟩) | [Repo](https://github.com/Rohithprasad-4/insureai-dashboard) |
+| **🛡️ AI Security Gateway** | Analysts drown in alerts. ML classifier + LLM risk explanations, so they read reasoning instead of raw flags. | `ML` `LLM` `Network Analytics` | `soon` | [Repo](https://github.com/Rohithprasad-4/AI-Network-Security-Gateway) |
+| **📝 NeuroNote** | Recorded lectures can't be revised from. Audio → transcript, summary, and quizzes grounded in what was taught. | `Gemini` `Groq` `FastAPI` | [**▶ Demo**](⟨url⟩) | [Repo](⟨url⟩) |
+| **👁️ Retinopathy Detection** | Screening needs more graders than exist. Benchmarked CNN / ResNet / EfficientNet / ViT on 5-class grading. | `PyTorch` `Transformers` | `study` | [Repo](⟨url⟩) |
+| **🎓 Placement Analysis** | Campus placement advice is folklore. Tested what actually predicts an offer and its salary. | `scikit-learn` `pandas` | `notebook` | [Repo](https://github.com/Rohithprasad-4/campus-placement-data-analysis-salary-prediction) |
+
+</div>
+
+<br>
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00758F?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**Generative & Agentic AI**
+
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-8957E5?style=for-the-badge)
+![RAG](https://img.shields.io/badge/Retrieval_&_RAG-1F6FEB?style=for-the-badge)
+
+**Backend & Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+</div>
+
+<br>
+
+---
+
+## ⚙️ &nbsp;How InsureAI works
+
+<div align="center">
 
 ```mermaid
 flowchart LR
-    A["Someone doing<br/>expensive manual work"] --> B{"Is the judgment<br/>repeatable?"}
-    B -->|No| X["Not worth<br/>automating"]
-    B -->|Yes| C{"Can failure be<br/>caught by a human?"}
-    C -->|No| Y["Too risky<br/>to ship"]
-    C -->|Yes| D["Build it"]
-    D --> E["Ship reasoning,<br/>not just a score"]
-
-    style D fill:#238636,stroke:#2ea043,color:#fff
-    style E fill:#1f6feb,stroke:#388bfd,color:#fff
-    style X fill:#21262d,stroke:#484f58,color:#8b949e
-    style Y fill:#21262d,stroke:#484f58,color:#8b949e
-```
-
----
-
-## Selected systems
-
-Each project is marked with how far it actually got. I'd rather you know which
-of these is load-bearing and which is a sketch.
-
-`🟢 real users` &nbsp; `🟡 working prototype, evaluated` &nbsp; `⚪ study`
-
-<br>
-
-<details open>
-<summary><b>🟡 &nbsp;InsureAI</b> — decision support for insurance underwriting</summary>
-
-<br>
-
-**The problem.** Underwriting means holding four judgments at once: how risky is
-this applicant, will they convert, what premium clears both, does this pass
-policy. Junior underwriters answer these sequentially, inconsistently, and the
-reasoning rarely gets written down.
-
-**What I built.** Four agents, each owning one question, passing structured state
-forward. The output isn't a score — it's a decision with its reasoning chain
-attached, which is the part a human reviewer actually needs.
-
-```mermaid
-flowchart TD
-    IN["Customer data"] --> RP["Risk Profiler"]
+    IN["Customer<br/>data"] --> RP["Risk<br/>Profiler"]
     RP --> CP["Conversion<br/>Predictor"]
     RP --> PA["Premium<br/>Advisor"]
     CP --> UW["Underwriting<br/>Decision"]
     PA --> UW
-    UW --> OUT["Decision<br/>+ reasoning chain"]
+    UW --> OUT["Decision +<br/>reasoning chain"]
 
     style RP fill:#1f6feb,stroke:#388bfd,color:#fff
     style CP fill:#1f6feb,stroke:#388bfd,color:#fff
@@ -95,214 +128,72 @@ flowchart TD
     style OUT fill:#238636,stroke:#2ea043,color:#fff
 ```
 
-**Where it stands.** Evaluated on ⟨dataset, size⟩. ⟨Key result — e.g. conversion
-AUC, or agreement rate with held-out human decisions⟩. Not deployed against live
-policy data.
-
-`Python` `scikit-learn` `multi-agent orchestration` `Streamlit` `Plotly`
-
-**[→ Repository](https://github.com/Rohithprasad-4/insureai-dashboard)**
-
-</details>
-
-<details>
-<summary><b>🟡 &nbsp;Sales Forecasting</b> — demand planning without a data team</summary>
+</div>
 
 <br>
-
-**The problem.** Small retailers plan inventory on gut feel, because every
-forecasting tool assumes you have an analyst. Over-order and capital sits on a
-shelf; under-order and the sale goes to the shop next door.
-
-**What I built.** Raw sales in, forecast out, with zero feature engineering asked
-of the user — temporal and lag features generated automatically, three model
-families compared, the winner surfaced through a dashboard a non-technical person
-can operate.
-
-```mermaid
-flowchart LR
-    A["Historical<br/>sales"] --> B["Preprocessing"]
-    B --> C["Time + lag<br/>features"]
-    C --> D["Linear"]
-    C --> E["Random Forest"]
-    C --> F["XGBoost"]
-    D --> G["Evaluate vs<br/>naive baseline"]
-    E --> G
-    F --> G
-    G --> H["Dashboard"]
-
-    style C fill:#1f6feb,stroke:#388bfd,color:#fff
-    style G fill:#8957e5,stroke:#a371f7,color:#fff
-    style H fill:#238636,stroke:#2ea043,color:#fff
-```
-
-**Where it stands.** ⟨MAE/MAPE on held-out period, against a
-last-month-repeats baseline — the baseline comparison is the number that
-matters⟩. Live demo deployed.
-
-`Python` `XGBoost` `pandas` `scikit-learn` `Streamlit`
-
-**[→ Repository](https://github.com/Rohithprasad-4/sales-forecasting-ml)** ·
-**[→ Live demo](⟨url⟩)**
-
-</details>
-
-<details>
-<summary><b>🟡 &nbsp;AI Network Security Gateway</b> — triage for alert fatigue</summary>
-
-<br>
-
-**The problem.** Security teams drown in alerts. The bottleneck isn't detection,
-it's the analyst deciding whether flagged connection #400 today matters.
-
-**What I built.** An ML classifier on traffic features, paired with an LLM layer
-that writes the risk explanation an analyst would otherwise reconstruct by hand.
-The context engineering is the hard part — enough network state for the model to
-be right, not so much that it invents a threat.
-
-```mermaid
-flowchart LR
-    A["Network<br/>traffic"] --> B["Feature<br/>extraction"]
-    B --> C["ML<br/>classifier"]
-    C --> D["Context<br/>assembly"]
-    D --> E["LLM risk<br/>analysis"]
-    E --> F["Ranked alerts<br/>+ explanations"]
-
-    style C fill:#1f6feb,stroke:#388bfd,color:#fff
-    style D fill:#8957e5,stroke:#a371f7,color:#fff
-    style E fill:#8957e5,stroke:#a371f7,color:#fff
-    style F fill:#238636,stroke:#2ea043,color:#fff
-```
-
-**Where it stands.** ⟨Detection performance on ⟨dataset⟩, and — more usefully —
-false positive rate, since that decides whether anyone would actually run this⟩.
-
-`Python` `machine learning` `LLM integration` `network analytics`
-
-**[→ Repository](https://github.com/Rohithprasad-4/AI-Network-Security-Gateway)**
-
-</details>
-
-<details>
-<summary><b>🟡 &nbsp;NeuroNote</b> — turning lectures into something you can revise from</summary>
-
-<br>
-
-**The problem.** A recorded lecture is nearly useless for revision. You can't
-scan it, search it, or test yourself against it, so students re-watch at 2× and
-retain very little.
-
-**What I built.** Audio in; transcript, summary and quiz out. Quiz generation was
-the interesting constraint — questions have to target what was actually taught,
-not what sounds plausible about the topic, so generation is grounded in
-transcript spans rather than left to free-associate.
-
-```mermaid
-flowchart TD
-    A["Lecture audio"] --> B["Transcription"]
-    B --> C["Transcript<br/>+ span index"]
-    C --> D["Gemini / Groq"]
-    D --> E["Summary"]
-    D --> F["Quiz grounded<br/>in spans"]
-    D --> G["Study notes"]
-
-    style C fill:#1f6feb,stroke:#388bfd,color:#fff
-    style D fill:#8957e5,stroke:#a371f7,color:#fff
-    style F fill:#238636,stroke:#2ea043,color:#fff
-```
-
-**Where it stands.** ⟨Lectures processed / whether anyone besides you has used it
-— if classmates used it, say so; that's the strongest line here⟩.
-
-`Python` `Gemini API` `Groq API` `FastAPI` `Flask`
-
-**[→ Repository](⟨url⟩)**
-
-</details>
-
-<details>
-<summary><b>⚪ &nbsp;Diabetic Retinopathy Detection</b> — where four architectures break down</summary>
-
-<br>
-
-Screening programs must grade retinal images at a volume that outstrips the
-ophthalmologists available. I benchmarked CNN, ResNet, EfficientNet and ViT on
-five-class severity grading to find where each fails — particularly the middle
-grades, where the visual difference between stages is subtle and the class
-imbalance is worst.
-
-This one is a study, not a system. The failure analysis taught me more than the
-accuracy number did.
-
-`Python` `PyTorch` `Hugging Face Transformers`
-
-**[→ Repository](⟨url⟩)**
-
-</details>
 
 ---
 
-## What I'm working through right now
+## 📊 &nbsp;GitHub Stats
 
-> [!TIP]
-> Open questions I don't have clean answers to. If you've solved any of these
-> properly, I'd like to hear about it.
+<div align="center">
 
-- **Agent reliability.** One agent's confident wrong output becomes the next
-  agent's premise. Where do validation gates go without turning the pipeline into
-  a pile of if-statements?
-- **Evaluating generated output.** Accuracy is easy. Judging whether an
-  explanation is *faithful* to the model that produced the decision is not.
-- **Notebook → service.** Schema drift, retraining triggers, and what to log so
-  a failure is diagnosable a week later.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohithprasad-4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohithprasad-4&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top languages">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithprasad-4&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="Streak">
+
+</div>
+
+<br>
 
 ---
 
-## Stack
+## 🏆 &nbsp;Achievements
+
+<div align="center">
 
 | | |
-|---|---|
-| **Reach for first** | Python · FastAPI · PostgreSQL · pandas · scikit-learn |
-| **Models** | PyTorch · XGBoost · Hugging Face Transformers · MLflow |
-| **LLM work** | Gemini API · Groq API · structured generation · multi-agent design |
-| **Also** | SQL · Java · Docker · Git · Streamlit · Plotly |
+|:---:|:---|
+| 🥇 | **Smart India Hackathon 2024** — Qualified |
+| 🥈 | **BITS Hyderabad Ideathon 2025** — Finalist, 700+ participants |
+| 🌍 | **GirlScript Summer of Code 2026** — Open Source & AI/Agents track |
+| 🎓 | **Microsoft Learn Student Ambassador** — 500+ students trained |
+| 📜 | **Oracle OCI Generative AI Professional** |
+| 📜 | **Google Responsible AI Certification** |
 
----
-
-## Experience
-
-**AI/ML Intern** — Sansi RF & Communication Systems · 2026
-Multimodal data pipelines, PostgreSQL, MLflow, testing infrastructure.
-
-**AI Engineer Intern** — Chronis (IIT BHU × Sarvam AI) · 2026
-Multimodal feature extraction, state management, feature store design.
-
-**Microsoft Learn Student Ambassador**
-AI/ML workshops for 500+ students.
-
-<details>
-<summary>Competitions & certifications</summary>
+</div>
 
 <br>
 
-- Smart India Hackathon 2024 — qualified
-- BITS Hyderabad Ideathon 2025 — finalist, 700+ participants
-- GirlScript Summer of Code 2026 — Open Source & AI/Agents track
-- Oracle OCI Generative AI Professional
-- Google Responsible AI Certification
+---
 
-</details>
+## 💼 &nbsp;Experience
+
+<div align="center">
+
+| Role | Organisation | Worked on |
+|:---|:---|:---|
+| **AI/ML Intern** | Sansi RF & Communication Systems | PostgreSQL · multimodal data · MLflow · testing |
+| **AI Engineer Intern** | Chronis — IIT BHU × Sarvam AI | Multimodal features · state management · feature store |
+| **Student Ambassador** | Microsoft Learn | AI/ML workshops, 500+ students |
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
 
-**PERCEIVE → REASON → DECIDE → ACT**
+### `PERCEIVE → REASON → DECIDE → ACT`
 
-Open to conversations about agentic systems, applied ML and backend
-architecture — especially with anyone who has shipped this to production and is
-willing to tell me what they got wrong.
+**Building systems, not just demos.**
 
-<a href="https://linkedin.com/in/Rohith-Prasad-Vagu">LinkedIn</a> · ⟨email⟩
+Open to collaboration on agentic AI, applied ML and backend systems.
+
+<a href="https://linkedin.com/in/Rohith-Prasad-Vagu"><img src="https://img.shields.io/badge/Let's_talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk"></a>
 
 </div>
