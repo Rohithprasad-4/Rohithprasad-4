@@ -51,8 +51,6 @@ rule:      if a human can't check the output, it isn't ready
 | **📈 Sales Forecasting** | Retailers plan inventory on gut feel. Raw sales in → forecast out, no analyst needed. | `XGBoost` `pandas` `Streamlit` | [**▶ Demo**](⟨url⟩) | [Repo](https://github.com/Rohithprasad-4/sales-forecasting-ml) |
 | **🧩 InsureAI** | Underwriters juggle 4 judgments at once. A 4-agent pipeline that outputs the *reasoning chain*, not just a score. | `scikit-learn` `Multi-Agent` `Plotly` | [**▶ Demo**](⟨url⟩) | [Repo](https://github.com/Rohithprasad-4/insureai-dashboard) |
 | **🛡️ AI Security Gateway** | Analysts drown in alerts. ML classifier + LLM risk explanations, so they read reasoning instead of raw flags. | `ML` `LLM` `Network Analytics` | `soon` | [Repo](https://github.com/Rohithprasad-4/AI-Network-Security-Gateway) |
-| **📝 NeuroNote** | Recorded lectures can't be revised from. Audio → transcript, summary, and quizzes grounded in what was taught. | `Gemini` `Groq` `FastAPI` | [**▶ Demo**](⟨url⟩) | [Repo](⟨url⟩) |
-| **👁️ Retinopathy Detection** | Screening needs more graders than exist. Benchmarked CNN / ResNet / EfficientNet / ViT on 5-class grading. | `PyTorch` `Transformers` | `study` | [Repo](⟨url⟩) |
 | **🎓 Placement Analysis** | Campus placement advice is folklore. Tested what actually predicts an offer and its salary. | `scikit-learn` `pandas` | `notebook` | [Repo](https://github.com/Rohithprasad-4/campus-placement-data-analysis-salary-prediction) |
 
 </div>
